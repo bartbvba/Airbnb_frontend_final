@@ -41,6 +41,7 @@ export default {
       selectedLocation: '',
       priceRange: { min: '', max: '' },
       uniqueLocations: [],
+      user: {}
     };
   },
   created() {
